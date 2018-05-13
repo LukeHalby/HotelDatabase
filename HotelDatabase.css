@@ -19,8 +19,25 @@ html, body {
 	background-color: white;
 	width: 100%;
 	font-family: Lato;
-	color: #41ad55;
+	color: black;
 	position: fixed;
 	margin: 0 0;
 	z-index: 1;
+}
+#titleBarSmallContainer {
+	float: right;
+	font-size: 15px;
+	font-weight: 400;
+	vertical-align: middle;
+	padding-top: 3px;
+
+}
+.logOutContainer {
+	position: relative;
+	list-style-type: none;
+	display: inline;
+}
+.logOut {
+	padding-left: 18px;
+	letter-spacing: 2px;
 }
