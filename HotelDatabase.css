@@ -6,6 +6,7 @@ html, body {
 }
 #logo {
 	font-size: 50px;
+	margin: 0 auto;
 }
 #titleBarContainer {
 	padding-left: 20px;
@@ -20,6 +21,6 @@ html, body {
 	font-family: Lato;
 	color: #41ad55;
 	position: fixed;
-	margin: -120px 0;
+	margin: 0 0;
 	z-index: 1;
 }
