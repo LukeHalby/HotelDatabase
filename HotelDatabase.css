@@ -106,7 +106,7 @@ imageAnimation {  0% {
 	color: black;
 	text-align: center;
 }
-#topLeftBox{
+.Box {
 	height: 30%;
 	width: 40%;
 	background-color: white;
