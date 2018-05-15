@@ -120,3 +120,6 @@ imageAnimation {  0% {
 .left {
 	float:left;
 }
+.top {
+	top: 120px;
+}
