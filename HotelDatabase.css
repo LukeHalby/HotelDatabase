@@ -114,3 +114,9 @@ imageAnimation {  0% {
 	position: relative;
 	display: inline-block;
 }
+.right {
+	float:right;
+}
+.left {
+	float:left;
+}
