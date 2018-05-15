@@ -1,0 +1,56 @@
+@charset "utf-8";
+@charset "utf-8";
+html, body, figure {
+	margin: 0;
+	padding: 0;
+	font-family: Lato;
+	-webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+    -webkit-margin-start: 0;
+    -webkit-margin-end: 0;
+}
+#logo {
+	font-size: 50px;
+	margin: 0 auto;
+}
+#logoSmall{
+	font-size: 25px;
+}
+#titleBarContainer {
+	padding-left: 20px;
+	padding-right: 20px;
+	margin: 0 auto;
+	width: 1200px;
+}
+#titleBar {
+	padding: 30px 0;
+	background-color: white;
+	width: 100%;
+	font-family: Lato;
+	color: black;
+	position: fixed;
+	margin: 0 0;
+	z-index: 1;
+}
+#titleBarSmallContainer {
+	float: right;
+	font-size: 15px;
+	font-weight: 400;
+	vertical-align: middle;
+	padding-top: 3px;
+
+}
+.logOutContainer {
+	position: relative;
+	list-style-type: none;
+	display: inline;
+}
+.logOut {
+	padding-left: 18px;
+	letter-spacing: 2px;
+}
+#background {
+	height: 100%;
+	width: 100%;
+	background-image: url('https://i.imgur.com/nyMom3J.jpg');
+}

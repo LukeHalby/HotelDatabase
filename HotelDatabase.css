@@ -63,23 +63,23 @@ html, body, figure {
   z-index: 0;
 }
 #backgroundSlideshow > figure:nth-child(1) {
-  background-image: url('images/resort1.png'); 
+  background-image: url('https://i.imgur.com/nyMom3J.jpg'); 
 }
 #backgroundSlideshow > figure:nth-child(2) {
   animation-delay: 6s;
-  background-image: url('images/resort2.png');
+  background-image: url('https://i.imgur.com/OppIKoq.jpg');
 }
 #backgroundSlideshow > figure:nth-child(3) {
   animation-delay: 12s;
-  background-image: url('images/resort3.png');
+  background-image: url('https://i.imgur.com/DXYDvkM.jpg');
 }
 #backgroundSlideshow > figure:nth-child(4) {
   animation-delay: 18s;
-  background-image: url('images/resort4.png');
+  background-image: url('https://i.imgur.com/PU7bfhP.jpg');
 }
 #backgroundSlideshow > figure:nth-child(5) {
   animation-delay: 24s;
-  background-image: url('images/resort5.png');
+  background-image: url('https://i.imgur.com/vny5VBj.jpg');
 }
 @keyframes
 imageAnimation {  0% {
