@@ -107,19 +107,17 @@ imageAnimation {  0% {
 	text-align: center;
 }
 .Box {
-	height: 30%;
+	height: 300px;
 	width: 40%;
 	background-color: white;
 	margin: 5%;
 	position: relative;
 	display: inline-block;
+	top: 120px;
 }
 .right {
 	float:right;
 }
 .left {
 	float:left;
-}
-.top {
-	top: 120px;
 }
